@@ -77,33 +77,3 @@ To get the bonus tests to run, execute the tests with:
 ```bash
 $ cargo test --features exponentials
 ```
-
-## Source
-
-### Created by
-
-- @IanWhitney
-
-### Contributed to by
-
-- @ashleygwilliams
-- @ccouzens
-- @coriolinus
-- @cwhakes
-- @eddyp
-- @efx
-- @ErikSchierboom
-- @IanWhitney
-- @lutostag
-- @mkantor
-- @navossoc
-- @nfiles
-- @petertseng
-- @rofrol
-- @stringparser
-- @xakon
-- @ZapAnton
-
-### Based on
-
-Inspired by one of the generated questions in the Extreme Startup game. - https://github.com/rchatley/extreme_startup

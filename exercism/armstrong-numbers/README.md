@@ -16,29 +16,3 @@ For example:
 
 Write some code to determine whether a number is an Armstrong number.
 
-## Source
-
-### Created by
-
-- @shingtaklam1324
-
-### Contributed to by
-
-- @AndrewKvalheim
-- @coriolinus
-- @cwhakes
-- @eddyp
-- @efx
-- @ErikSchierboom
-- @lutostag
-- @ocstl
-- @petertseng
-- @rofrol
-- @sputnick1124
-- @stringparser
-- @xakon
-- @ZapAnton
-
-### Based on
-
-Wikipedia - https://en.wikipedia.org/wiki/Narcissistic_number

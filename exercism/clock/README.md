@@ -25,33 +25,3 @@ You don't have to actually implement this—it's redundant with `Display`, which
 better choice when the destination type is `String`—but it's useful to have a few type-conversion
 traits in your toolkit.
 
-## Source
-
-### Created by
-
-- @sacherjj
-
-### Contributed to by
-
-- @attilahorvath
-- @coriolinus
-- @cwhakes
-- @danieljl
-- @eddyp
-- @efx
-- @ErikSchierboom
-- @felix91gr
-- @kunaltyagi
-- @lutostag
-- @nfiles
-- @petertseng
-- @rofrol
-- @shaaraddalvi
-- @stringparser
-- @tmccombs
-- @xakon
-- @ZapAnton
-
-### Based on
-
-Pairing session with Erin Drummond - https://twitter.com/ebdrummond

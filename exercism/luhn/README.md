@@ -68,35 +68,3 @@ Sum the digits
 ```
 
 57 is not evenly divisible by 10, so this number is not valid.
-
-## Source
-
-### Created by
-
-- @IanWhitney
-
-### Contributed to by
-
-- @AvasDream
-- @bitfield
-- @coriolinus
-- @cwhakes
-- @efx
-- @ErikSchierboom
-- @gibfahn
-- @idealhack
-- @lutostag
-- @mkantor
-- @navossoc
-- @nfiles
-- @petertseng
-- @rofrol
-- @stkent
-- @stringparser
-- @workingjubilee
-- @xakon
-- @ZapAnton
-
-### Based on
-
-The Luhn Algorithm on Wikipedia - http://en.wikipedia.org/wiki/Luhn_algorithm

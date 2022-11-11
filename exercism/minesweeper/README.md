@@ -52,29 +52,3 @@ involved - every ASCII char is one u8 long.
 
 Can you complete the challenge without cloning the input?
 
-## Source
-
-### Created by
-
-- @EduardoBautista
-
-### Contributed to by
-
-- @ashleygwilliams
-- @coriolinus
-- @cwhakes
-- @EduardoBautista
-- @efx
-- @ErikSchierboom
-- @ffflorian
-- @IanWhitney
-- @kytrinyx
-- @lutostag
-- @mkantor
-- @nfiles
-- @petertseng
-- @rofrol
-- @stringparser
-- @workingjubilee
-- @xakon
-- @ZapAnton

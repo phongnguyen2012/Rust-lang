@@ -41,37 +41,3 @@ are some additional things you could try:
 
 Then please share your thoughts in a comment on the submission. Did this
 experiment make the code better? Worse? Did you learn anything from it?
-
-## Source
-
-### Created by
-
-- @EduardoBautista
-
-### Contributed to by
-
-- @andrewclarkson
-- @ashleygwilliams
-- @coriolinus
-- @cwhakes
-- @EduardoBautista
-- @efx
-- @ErikSchierboom
-- @ffflorian
-- @IanWhitney
-- @kytrinyx
-- @lpil
-- @lutostag
-- @navossoc
-- @nfiles
-- @petertseng
-- @pminten
-- @rofrol
-- @stevejb71
-- @stringparser
-- @xakon
-- @ZapAnton
-
-### Based on
-
-A pairing session with Phil Battos at gSchool - http://gschool.it
